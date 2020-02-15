@@ -1,0 +1,11 @@
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFAHamburgerTakip_02\WFAHamburgerTakip_02\bin\Debug\WFAHamburgerTakip_02.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFAHamburgerTakip_02\WFAHamburgerTakip_02\bin\Debug\WFAHamburgerTakip_02.exe
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFAHamburgerTakip_02\WFAHamburgerTakip_02\bin\Debug\WFAHamburgerTakip_02.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFAHamburgerTakip_02\WFAHamburgerTakip_02\obj\Debug\WFAHamburgerTakip_02.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFAHamburgerTakip_02\WFAHamburgerTakip_02\obj\Debug\WFAHamburgerTakip_02.Form1.resources
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFAHamburgerTakip_02\WFAHamburgerTakip_02\obj\Debug\WFAHamburgerTakip_02.Properties.Resources.resources
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFAHamburgerTakip_02\WFAHamburgerTakip_02\obj\Debug\WFAHamburgerTakip_02.csproj.GenerateResource.cache
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFAHamburgerTakip_02\WFAHamburgerTakip_02\obj\Debug\WFAHamburgerTakip_02.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFAHamburgerTakip_02\WFAHamburgerTakip_02\obj\Debug\WFAHamburgerTakip_02.exe
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFAHamburgerTakip_02\WFAHamburgerTakip_02\obj\Debug\WFAHamburgerTakip_02.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFAHamburgerTakip_02\WFAHamburgerTakip_02\obj\Debug\WFAHamburgerTakip_02.Form2.resources
